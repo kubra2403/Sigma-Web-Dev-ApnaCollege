@@ -1,2 +1,2 @@
 # Sigma-Web-Dev-ApnaCollege
-Web Development learning journey |
+Web Development learning journey 
